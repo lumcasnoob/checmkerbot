@@ -410,8 +410,8 @@ return $str[0];
 };
 $separa = explode("|", $lista);
 $cc = $separa[0];
-$mon = $separa[1];
-$year = $separa[2];
+$mes = $separa[1];
+$ano = $separa[2];
 $cvv = $separa[3];
 
 
